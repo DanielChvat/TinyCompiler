@@ -19,8 +19,8 @@ enum class TokenType {
     FloatingLiteral,    // F64 Literal Val
     LPAREN,             // (
     RPAREN,             // )
-    LBRACE,             // [
-    RBRACE,             // ]
+    LBRACE,             // {
+    RBRACE,             // }
     SEMICOLON,          // ;
     COMMA,              // ,
     PLUS,               // +
